@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Get Ur IP</string>
+    <string name="title_local">内网 IP</string>
+    <string name="title_public_v4">公网 IPv4</string>
+    <string name="title_public_v6">公网 IPv6</string>
+    <string name="refresh_all">全部刷新</string>
+    <string name="refresh">刷新</string>
+    <string name="loading">获取中…</string>
+    <string name="tip">提示：点击地址可复制；公网 IPv6 需要当前网络（Wi-Fi / 运营商）分配并支持 IPv6，否则会显示获取失败。</string>
+</resources>
